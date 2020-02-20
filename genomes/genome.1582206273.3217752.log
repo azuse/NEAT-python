@@ -1,0 +1,21 @@
+fitness orig_fitness
+1.287001287001287 100000
+node
+0 input [] [0, 1]
+1 input [] [2, 3]
+2 input [] [4, 5]
+3 input [] [6, 7]
+4 input [] [8, 9]
+5 output [0, 2, 4, 6, 8] []
+6 output [1, 3, 5, 7, 9] []
+gene
+1 0 5 -0.1257251440441346 False True
+2 0 6 -2.6370461583824873 False True
+3 1 5 -3.4548059954335932 False True
+4 1 6 -6.495161681023218 False True
+5 2 5 -2.4090219098201073 False True
+6 2 6 0.3777955493966918 False True
+7 3 5 -4.687722876453663 False True
+8 3 6 -1.3677539111232995 False True
+9 4 5 -7.425584432454251 False True
+10 4 6 -4.650619382310831 False True
